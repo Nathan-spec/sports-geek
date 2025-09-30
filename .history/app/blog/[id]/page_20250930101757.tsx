@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation"; // or 'next/router' in Pages Router
 import Image from "next/image";
+import { blogPosts } from "@/lib/data"; // wherever your blogPosts array lives
 import { Calendar, User } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Header from "@/components/header";
