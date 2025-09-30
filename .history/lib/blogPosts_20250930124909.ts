@@ -1,0 +1,346 @@
+export const blogPosts = [
+  {
+    id: "1",
+    title: "Kenya Sevens: The Road to Paris Olympics 2024",
+    author: "James Mwangi",
+    date: "March 15, 2024",
+    readTime: "8 min read",
+    image: "/blog/kenya-sevens.jpg", // Update with real image
+    category: "Rugby News",
+    excerpt:
+      "Follow the Shujaa’s incredible journey as they prepare for the biggest stage in rugby. From training camps in Nairobi to international tournaments...",
+    content: `
+🏉 Kenya Sevens: The Road to Paris Olympics 2024
+<p> The Kenya Sevens team — affectionately known as the <strong>Shujaa</strong> — has embarked on a spirited journey toward the <strong>Paris 2024 Olympics</strong>, capturing the hearts of fans across the nation and beyond. </p> <p> Their campaign represents more than a sporting effort; it’s a cultural movement fueled by pride, resilience, and the pursuit of greatness. As preparations intensify, let’s take a closer look at what’s shaping their path to the world’s biggest sporting stage. </p>
+🏋️ High-Performance Training in Nairobi
+<p> At the heart of Shujaa’s preparation is the high-performance training camp at the <strong>Kenya Rugby Union (KRU)</strong> facility in Nairobi. Leveraging the city’s high altitude and modern training equipment, the team is working on: </p> <ul> <li>🔋 Speed, agility, and endurance drills</li> <li>📊 Data-driven fitness monitoring</li> <li>🧠 Mental toughness and resilience coaching</li> </ul> <p> The coaching staff has emphasized blending traditional rugby fundamentals with cutting-edge sports science to build an Olympic-ready squad. </p>
+🌟 Key Players to Watch
+<p> As always, Kenya’s squad is a mix of experienced veterans and dynamic young talent: </p> <ul> <li><strong>Nelson Oyoo</strong> – The captain and heartbeat of the team, known for his leadership and game intelligence.</li> <li><strong>Alvin "Buffa" Otieno</strong> – A crowd favorite with explosive carries and bone-crunching tackles.</li> <li><strong>John Okoth</strong> – A rising star with serious pace and the hunger to make a mark on the Olympic stage.</li> </ul> <p> Together, they bring energy, unity, and an unmistakable Kenyan flair to the pitch. </p>
+🌍 Rugby Beyond Borders: Cultural Impact
+<p> Shujaa isn't just representing Kenya in sport — they’re carrying the **spirit of the nation**. From the rhythmic war cries during warm-ups to the Maasai-inspired scarf designs worn by fans, the cultural connection runs deep. </p> <p> Kenyan rugby symbolizes **harambee** — pulling together. Whether you're in Nairobi, Eldoret, London, or New York, when Shujaa plays, the entire diaspora rallies. </p>
+🏆 Road to Paris: What’s at Stake
+<p> Qualifying for Paris means more than Olympic medals — it’s about legacy. It’s a chance to: </p> <ul> <li>📣 Showcase Kenya’s rugby evolution</li> <li>🇰🇪 Inspire the next generation of players</li> <li>🧵 Unite fans under the banner of culture and sport</li> </ul> <p> As the countdown begins, the team knows that with every pass, sprint, and tackle, they’re not just chasing gold — they’re carrying a nation’s dream. </p>
+💬 Final Thoughts
+<p> As fans, we may not be on the pitch, but we play a vital role in the journey. Every tweet, chant, and scarf worn is a reminder to the world that **Kenya belongs on the global rugby stage**. </p> <p> Let’s cheer louder, wear our pride, and support Shujaa all the way to Paris 🇰🇪. </p>`,
+    tags: ["Kenya Sevens", "Olympics", "Shujaa", "Rugby"],
+  },
+  {
+    id: "2",
+    title: "The Story Behind Our Maasai Warrior Design",
+    author: "Grace Wanjiku",
+    date: "March 12, 2024",
+    readTime: "5 min read",
+    image: "/blog/maasai-warrior.jpg",
+    category: "Design Stories",
+    excerpt:
+      "Discover the cultural significance and artistic inspiration behind one of our most popular scarf designs, created in collaboration with Maasai artists.",
+    content: `
+     <p>When we set out to design the <strong>Maasai Warrior Scarf</strong>, we knew it had to be more than just a piece of merchandise. It needed to reflect the vibrant spirit, history, and cultural identity of one of Kenya's most iconic communities — the Maasai.</p>
+
+    <h2>🎨 The Inspiration</h2>
+    <p>From the deep reds of the shúkà (traditional Maasai cloth) to the beaded jewelry patterns worn by warriors, our design team immersed themselves in Maasai culture. We collaborated closely with artists and elders from Kajiado and Narok counties to ensure every element was authentic and respectful.</p>
+
+    <p>Each stripe, pattern, and color was intentional — symbolizing courage, unity, and heritage. The result? A scarf that doesn’t just keep you warm, but tells a story with every thread.</p>
+
+    <h2>🧵 From Concept to Craft</h2>
+    <p>Unlike mass-produced merchandise, our Maasai Warrior scarf went through <strong>seven rounds of prototyping</strong>. The goal was to capture traditional symbolism while maintaining the premium quality our fans expect.</p>
+
+    <ul>
+      <li>✅ Hand-illustrated motifs</li>
+      <li>✅ Eco-friendly fabric dyes</li>
+      <li>✅ Locally sourced materials</li>
+    </ul>
+
+    <p>We tested the scarf in real-world rugby environments — cold evenings at Nyayo Stadium, chilly match days in the UK — and ensured it met both fashion and function standards.</p>
+
+    <h2>🤝 Cultural Respect & Empowerment</h2>
+    <p>This project was not just creative — it was a cultural partnership. A portion of the proceeds goes toward supporting Maasai youth initiatives in sports and education.</p>
+
+    <p>We believe that design should uplift. That’s why we’re proud to say the scarf was <strong>co-created</strong> with members of the community it honors.</p>
+
+    <h2>📸 Fan Reactions</h2>
+    <p>Since launching, fans have shared photos wearing the Maasai Warrior Scarf from:</p>
+    <ul>
+      <li>🏉 Rugby 7s tournaments in Dubai</li>
+      <li>🗽 Kenyan parades in New York</li>
+      <li>🇰🇪 Local school matches in Kisumu</li>
+    </ul>
+
+    <p>It’s more than a product. It’s a movement.</p>
+
+    <h2>💬 Final Thoughts</h2>
+    <p>Heritage is not a trend — it’s a living expression of who we are. With the Maasai Warrior design, we’re not just selling scarves. We’re telling our story to the world, one thread at a time.</p>
+
+    <p><strong>Thank you</strong> to everyone who continues to support culturally inspired sportswear. We promise to keep weaving stories worth wearing.</p>
+    `,
+    tags: ["Culture", "Design", "Heritage"],
+  },
+  {
+    id: "3",
+    title: "Rugby Sevens World Series: Kenya's Performance Analysis",
+    author: "David Kipchoge",
+    date: "March 10, 2024",
+    readTime: "6 min read",
+    image: "/blog/sevens-analysis.jpg",
+    category: "Rugby Analysis",
+    excerpt:
+      "A deep dive into Kenya’s recent performances in the World Rugby Sevens Series, highlighting key players and memorable moments.",
+    content: `
+    <p>The World Rugby Sevens Series is more than just a global tournament — it’s a proving ground for speed, skill, and strategic brilliance. Kenya’s national team, the <strong>Shujaa</strong>, has consistently drawn attention for their electric style of play and passionate fan base. In this article, we break down their recent performances, tactical evolution, and rising stars.</p>
+
+    <h2>📊 Tournament Overview</h2>
+    <p>Across the 2023–2024 season, Kenya participated in key series stops including Dubai, Cape Town, Sydney, and Los Angeles. While the team faced challenges in consistency, several matches showed tremendous potential — especially in pool stages where they pushed top-tier teams like Fiji and New Zealand to the limit.</p>
+
+    <ul>
+      <li><strong>Top Performance:</strong> 5th place finish in Cape Town</li>
+      <li><strong>Points Scored:</strong> 172 (average 3.2 tries per match)</li>
+      <li><strong>Most Tackles:</strong> Johnstone Olindi – 48 tackles</li>
+    </ul>
+
+    <h2>💡 Tactical Insights</h2>
+    <p>Coach Kevin Wambua’s approach emphasized structured offloads and tighter defensive formations. Notably, Kenya’s attacking rucks improved by <strong>15%</strong> compared to last season, allowing faster ball recycling.</p>
+
+    <p>However, the team struggled with unforced errors under pressure, especially in second-half play — an area now being addressed in training camps.</p>
+
+    <h2>⭐ Standout Players</h2>
+    <ul>
+      <li><strong>Alvin “Buffa” Otieno:</strong> Explosive runs and physical dominance in the breakdown.</li>
+      <li><strong>Daniel Taabu:</strong> Orchestrated attacking play with his precise kicks and calm decision-making.</li>
+      <li><strong>John Okoth:</strong> Newcomer with a high work rate and impressive defensive stats.</li>
+    </ul>
+
+    <h2>🎥 Highlight Moment</h2>
+    <p>In Dubai, Kenya’s match against South Africa was a masterclass in counter-attacking rugby. Down 12–0 at halftime, the Shujaa mounted a comeback and won 19–17 — thanks to a last-minute intercept try by Herman Humwa.</p>
+
+    <h2>📈 What’s Next</h2>
+    <p>With the <strong>Paris 2024 Olympics</strong> on the horizon, the team is intensifying its preparations. The goal is not only to qualify but to compete at the highest level against the world’s best. Player conditioning, tactical sharpness, and squad depth are all receiving renewed focus.</p>
+
+    <h2>🗣️ Final Thoughts</h2>
+    <p>The Kenyan Sevens team continues to inspire. While the journey is filled with ups and downs, one thing remains constant: the fire, flair, and fighting spirit of the Shujaa.</p>
+
+    <p>If you’re a fan of fast-paced, passionate rugby — this is the team to watch.</p>
+    `,
+    tags: ["World Series", "Performance", "Stats"],
+  },
+  {
+    id: "4",
+    title: "Connecting the Diaspora: Rugby Scarves as Cultural Bridges",
+    author: "Sarah Mutua",
+    date: "March 8, 2024",
+    readTime: "7 min read",
+    image: "/blog/diaspora-bridges.jpg",
+    category: "Fan Stories",
+    excerpt:
+      "How Kenyan rugby fans around the world use our scarves to maintain their connection to home and share their heritage with new communities.",
+    content: `
+     <p>When a Kenyan rugby fan wraps a scarf around their shoulders in London, Toronto, or Sydney, they’re doing more than just keeping warm — they’re expressing identity, memory, and connection.</p>
+
+    <h2>🌍 Scarves as Identity Markers</h2>
+    <p>For many in the Kenyan diaspora, our <strong>rugby scarves serve as a wearable link to home</strong>. Whether you're in the stands at Twickenham or watching from a local pub in Berlin, the scarf becomes a symbol — instantly recognizable and emotionally charged.</p>
+
+    <p>It’s a quiet but powerful way to say: <em>“I’m Kenyan. I’m proud. And I’m still part of this.”</em></p>
+
+    <h2>🤝 Bringing People Together</h2>
+    <p>In cities with large Kenyan communities, scarves spark conversation and camaraderie. We’ve heard countless stories of fans being approached by strangers in airports or metros:</p>
+
+    <blockquote>
+      “I was wearing my Shujaa Heritage Scarf at JFK and someone tapped my shoulder saying ‘Niaje bro, uko ndani?’ — we ended up watching the match together that weekend.” – Brian, New York
+    </blockquote>
+
+    <p>These are not just accessories. They are <strong>conversation starters</strong>, <strong>community magnets</strong>, and <strong>tribal markers</strong> for Kenyans abroad.</p>
+
+    <h2>📸 Diaspora Highlights</h2>
+    <ul>
+      <li>🇬🇧 Kenyan Sevens supporters at the London 7s all wore the red-striped scarf — a sea of unity in a foreign land.</li>
+      <li>🇨🇦 In Ontario, a grassroots rugby club started using our scarves as pre-match symbols of solidarity for their East African players.</li>
+      <li>🇺🇸 In Boston, students formed a Kenya Rugby Fan Club where scarves are gifted to new members during initiation.</li>
+    </ul>
+
+    <h2>🎨 Cultural Fusion</h2>
+    <p>Some fans have even begun <strong>customizing their scarves</strong> — adding beadwork, embroidery, or stitching in personal messages. It’s a beautiful evolution that blends Kenyan tradition with global creativity.</p>
+
+    <p>We've seen fans pair their scarves with winter trench coats in Sweden, with streetwear in Brooklyn, and even with blazers at diplomatic events. Versatility meets heritage.</p>
+
+    <h2>💌 Final Words from the Community</h2>
+    <p>We asked members of our SportsGeek family abroad what the scarf means to them. Here are some of the responses:</p>
+
+    <ul>
+      <li><em>"It's home — wrapped around my neck."</em></li>
+      <li><em>"Every time I wear it, I feel like I’m in Kasarani again."</em></li>
+      <li><em>"It reminds me who I am, even 7,000 miles away."</em></li>
+    </ul>
+
+    <p>To every fan across the world: thank you for showing us that Kenyan pride knows no borders. 🧣🌍</p>
+
+    <p><strong>Keep repping. Keep connecting. Keep the heritage alive.</strong></p>
+    `,
+    tags: ["Diaspora", "Fans", "Culture"],
+  },
+  {
+    id: "5",
+    title: "Sustainable Fashion in Sports Merchandise",
+    author: "James Mwangi",
+    date: "March 5, 2024",
+    readTime: "4 min read",
+    image: "/blog/sustainable-fashion.jpg",
+    category: "Sustainability",
+    excerpt:
+      "Our commitment to sustainable practices in creating premium rugby scarves, from material sourcing to packaging.",
+    content: `
+    <p>At <strong>SportsGeekScarves</strong>, we believe that celebrating Kenyan rugby culture should not come at the expense of the planet. As global awareness around climate change and ethical production rises, we’re proud to be part of the shift toward <strong>sustainable sports merchandise</strong>.</p>
+
+    <h2>♻️ Sustainable Materials</h2>
+    <p>Our scarves are crafted using a premium blend of 95% recycled acrylic and 5% ethically sourced spandex. Not only does this ensure durability and comfort, but it also reduces our environmental footprint.</p>
+
+    <p>We’ve partnered with suppliers who meet <strong>OEKO-TEX®</strong> and <strong>GRS (Global Recycle Standard)</strong> certifications — ensuring no harmful substances and verified recycling processes.</p>
+
+    <h2>🌿 Eco-Conscious Manufacturing</h2>
+    <p>Our production facility in Nairobi runs on partial solar power and uses <strong>closed-loop water systems</strong> to reduce wastewater. Fabric dyeing and finishing are handled with non-toxic, low-impact dyes that are safe for both workers and the environment.</p>
+
+    <ul>
+      <li>✅ Low-waste cutting process</li>
+      <li>✅ Zero plastic used in internal logistics</li>
+      <li>✅ Fair wages and ethical labor standards</li>
+    </ul>
+
+    <h2>📦 Plastic-Free Packaging</h2>
+    <p>Every order is shipped in <strong>100% biodegradable mailers</strong> and wrapped in recyclable kraft paper. We’ve removed plastic tags in favor of cotton labels and switched from synthetic to paper-based QR codes for product scanning.</p>
+
+    <p>We’re also piloting a <em>“Return & Reuse”</em> program for bulk orders to encourage customers to return packaging for reuse or repurpose.</p>
+
+    <h2>🧵 Repair > Replace</h2>
+    <p>In true sustainable spirit, we offer a free <strong>“Repair My Scarf”</strong> service. Whether it’s a loose stitch or a snag, we’ll fix it — because lasting products are part of sustainable fashion.</p>
+
+    <h2>🌍 Why It Matters</h2>
+    <p>Fast fashion has long plagued the apparel industry. As a proudly Kenyan brand rooted in community values, we wanted to prove that <strong>you can build quality merch that’s also kind to the planet</strong>.</p>
+
+    <p>Every decision we make — from thread to thread — is guided by our belief in <strong>responsible rugby culture</strong>.</p>
+
+    <h2>📣 Your Role</h2>
+    <p>By choosing sustainable scarves, you’re not just showing your love for rugby — you’re standing up for cleaner oceans, healthier workers, and a more conscious world. 💚</p>
+
+    <p>Thank you for walking this journey with us. Together, we’re repping Kenya and respecting Earth.</p>
+    `,
+    tags: ["Sustainability", "Merch", "Green"],
+  },
+  {
+    id: "6",
+    title: "The Evolution of Rugby in Kenya: From Colonial Times to Modern Day",
+    author: "Dr. Peter Wafula",
+    date: "March 2, 2024",
+    readTime: "10 min read",
+    image: "/blog/kenya-rugby-history.jpg",
+    category: "Rugby History",
+    excerpt:
+      "A historical journey through Kenya’s rugby heritage, from its colonial introduction to becoming a powerhouse in sevens rugby.",
+    content: `
+    <p>At <strong>SportsGeekScarves</strong>, we believe that celebrating Kenyan rugby culture should not come at the expense of the planet. As global awareness around climate change and ethical production rises, we’re proud to be part of the shift toward <strong>sustainable sports merchandise</strong>.</p>
+
+    <h2>♻️ Sustainable Materials</h2>
+    <p>Our scarves are crafted using a premium blend of 95% recycled acrylic and 5% ethically sourced spandex. Not only does this ensure durability and comfort, but it also reduces our environmental footprint.</p>
+
+    <p>We’ve partnered with suppliers who meet <strong>OEKO-TEX®</strong> and <strong>GRS (Global Recycle Standard)</strong> certifications — ensuring no harmful substances and verified recycling processes.</p>
+
+    <h2>🌿 Eco-Conscious Manufacturing</h2>
+    <p>Our production facility in Nairobi runs on partial solar power and uses <strong>closed-loop water systems</strong> to reduce wastewater. Fabric dyeing and finishing are handled with non-toxic, low-impact dyes that are safe for both workers and the environment.</p>
+
+    <ul>
+      <li>✅ Low-waste cutting process</li>
+      <li>✅ Zero plastic used in internal logistics</li>
+      <li>✅ Fair wages and ethical labor standards</li>
+    </ul>
+
+    <h2>📦 Plastic-Free Packaging</h2>
+    <p>Every order is shipped in <strong>100% biodegradable mailers</strong> and wrapped in recyclable kraft paper. We’ve removed plastic tags in favor of cotton labels and switched from synthetic to paper-based QR codes for product scanning.</p>
+
+    <p>We’re also piloting a <em>“Return & Reuse”</em> program for bulk orders to encourage customers to return packaging for reuse or repurpose.</p>
+
+    <h2>🧵 Repair > Replace</h2>
+    <p>In true sustainable spirit, we offer a free <strong>“Repair My Scarf”</strong> service. Whether it’s a loose stitch or a snag, we’ll fix it — because lasting products are part of sustainable fashion.</p>
+
+    <h2>🌍 Why It Matters</h2>
+    <p>Fast fashion has long plagued the apparel industry. As a proudly Kenyan brand rooted in community values, we wanted to prove that <strong>you can build quality merch that’s also kind to the planet</strong>.</p>
+
+    <p>Every decision we make — from thread to thread — is guided by our belief in <strong>responsible rugby culture</strong>.</p>
+
+    <h2>📣 Your Role</h2>
+    <p>By choosing sustainable scarves, you’re not just showing your love for rugby — you’re standing up for cleaner oceans, healthier workers, and a more conscious world. 💚</p>
+
+    <p>Thank you for walking this journey with us. Together, we’re repping Kenya and respecting Earth.</p>
+    `,
+    tags: ["History", "Rugby", "Kenya"],
+  },
+  {
+    id: "7",
+    title: "Fan Spotlight: Meet the Kenyan Rugby Supporters in London",
+    author: "Grace Wanjiku",
+    date: "February 28, 2024",
+    readTime: "6 min read",
+    image: "/blog/fans-london.jpg",
+    category: "Fan Stories",
+    excerpt:
+      "Get to know the passionate Kenyan rugby fans living in London who never miss a match and proudly wear their heritage.",
+    content: `
+       <p>Kenyan rugby isn't just thriving within the borders of Kenya — it has built a powerful presence overseas, especially in major cities like <strong>London</strong>. Thousands of passionate fans living abroad continue to show their unwavering support for the <em>Shujaa</em> (Kenya Sevens) and <em>Simbas</em> (Kenya 15s), turning every international tournament into a Kenyan celebration.</p>
+
+    <h2>🇰🇪 Community Beyond Borders</h2>
+    <p>In a cozy pub in South London or outside the gates of Twickenham Stadium, you’ll find <strong>Kenyans donning SportsGeekScarves</strong>, waving flags, and singing chants that echo all the way from Nairobi. These gatherings are more than just watch parties — they’re community-building events, reconnecting diaspora members with home.</p>
+
+    <blockquote>
+      “Supporting Shujaa here makes me feel like I never left home,” says Lucy, a Kenyan student at King’s College London.
+    </blockquote>
+
+    <h2>🎉 Match Days Are Cultural Events</h2>
+    <p>Match days are nothing short of vibrant cultural festivals. Many fans bring traditional Kenyan snacks, wear <strong>custom-designed scarves</strong> inspired by Kikuyu, Luo, Maasai, and Kalenjin heritage, and share stories of their favorite rugby moments growing up.</p>
+
+    <p>For those raising families abroad, these moments are teaching tools — opportunities to instill cultural identity in their children.</p>
+
+    <h2>🌍 Staying Connected Through Fashion</h2>
+    <p>One fan-favorite trend is using <strong>rugby scarves as storytelling tools</strong>. Designs like the <em>Maasai Warrior</em> or <em>Shujaa Pride</em> scarf do more than keep you warm — they speak of history, resilience, and pride.</p>
+
+    <p>“Every time I wear my scarf, someone stops me to ask about it,” says Sam, a Kenyan-born banker in East London. “It becomes a conversation about Kenya, about our team, about where I come from.”</p>
+
+    <h2>💬 The Role of Social Media</h2>
+    <p>Fans use WhatsApp groups, Telegram channels, and Instagram to coordinate meetups and share live match commentary. Some even run fan pages that highlight Kenyan rugby news — becoming digital ambassadors for the sport.</p>
+
+    <h2>✈️ When Kenya Comes to Town</h2>
+    <p>Whenever the Kenyan national teams travel to Europe, the London fans <strong>turn out in huge numbers</strong>. From the London Sevens to friendly test matches, they often outcheer the home crowd with traditional songs and rhythmic ululations.</p>
+
+    <h2>🌟 Why It Matters</h2>
+    <p>These fans are proof that rugby is more than a sport — it's a way of staying rooted. In a fast-paced, often isolating world, this community offers a sense of belonging, purpose, and shared pride in being Kenyan.</p>
+
+    <p>To all our supporters in the diaspora: <strong>we see you, we appreciate you, and you are just as much a part of this journey</strong>.</p>
+
+    <p><em>From London to Kisumu, we are one tribe. We are SportsGeek.</em></p>
+    `,
+    tags: ["Fans", "London", "Diaspora"],
+  },
+  {
+    id: "8",
+    title: "Behind the Scenes: How We Create Our Rugby Scarves",
+    author: "David Kipchoge",
+    date: "February 25, 2024",
+    readTime: "6 min read",
+    image: "/blog/scarf-production.jpg",
+    category: "Behind the Scenes",
+    excerpt:
+      "Take a look at our design and manufacturing process, from initial concept sketches to the final premium product.",
+    content: `
+      
+    `,
+    tags: ["Production", "Design", "Craftsmanship"],
+  },
+  {
+    id: "9",
+    title: "Upcoming Rugby Fixtures: What to Watch in 2024",
+    author: "James Mwangi",
+    date: "February 22, 2024",
+    readTime: "5 min read",
+    image: "/blog/fixtures-2024.jpg",
+    category: "Rugby News",
+    excerpt:
+      "Your complete guide to the most important rugby matches and tournaments featuring Kenya in 2024.",
+    content: ``,
+    tags: ["Fixtures", "Schedule", "Kenya Rugby"],
+  },
+];

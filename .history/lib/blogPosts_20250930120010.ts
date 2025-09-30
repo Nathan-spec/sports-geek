@@ -1,0 +1,121 @@
+// lib/blogPosts.ts
+
+export const blogPosts = [
+  {
+    id: "1",
+    title: "Kenya Sevens: The Road to Paris Olympics 2024",
+    author: "James Mwangi",
+    date: "March 15, 2024",
+    readTime: "8 min read",
+    image: "/blog/kenya-sevens.jpg", // Update with real image
+    category: "Rugby News",
+    excerpt:
+      "Follow the Shujaa’s incredible journey as they prepare for the biggest stage in rugby. From training camps in Nairobi to international tournaments...",
+    content: `<!-- Paste full HTML content here -->`,
+    tags: ["Kenya Sevens", "Olympics", "Shujaa", "Rugby"],
+  },
+  {
+    id: "2",
+    title: "The Story Behind Our Maasai Warrior Design",
+    author: "Grace Wanjiku",
+    date: "March 12, 2024",
+    readTime: "5 min read",
+    image: "/blog/maasai-warrior.jpg",
+    category: "Design Stories",
+    excerpt:
+      "Discover the cultural significance and artistic inspiration behind one of our most popular scarf designs, created in collaboration with Maasai artists.",
+    content: ``,
+    tags: ["Culture", "Design", "Heritage"],
+  },
+  {
+    id: "3",
+    title: "Rugby Sevens World Series: Kenya's Performance Analysis",
+    author: "David Kipchoge",
+    date: "March 10, 2024",
+    readTime: "6 min read",
+    image: "/blog/sevens-analysis.jpg",
+    category: "Rugby Analysis",
+    excerpt:
+      "A deep dive into Kenya’s recent performances in the World Rugby Sevens Series, highlighting key players and memorable moments.",
+    content: ``,
+    tags: ["World Series", "Performance", "Stats"],
+  },
+  {
+    id: "4",
+    title: "Connecting the Diaspora: Rugby Scarves as Cultural Bridges",
+    author: "Sarah Mutua",
+    date: "March 8, 2024",
+    readTime: "7 min read",
+    image: "/blog/diaspora-bridges.jpg",
+    category: "Fan Stories",
+    excerpt:
+      "How Kenyan rugby fans around the world use our scarves to maintain their connection to home and share their heritage with new communities.",
+    content: ``,
+    tags: ["Diaspora", "Fans", "Culture"],
+  },
+  {
+    id: "5",
+    title: "Sustainable Fashion in Sports Merchandise",
+    author: "James Mwangi",
+    date: "March 5, 2024",
+    readTime: "4 min read",
+    image: "/blog/sustainable-fashion.jpg",
+    category: "Sustainability",
+    excerpt:
+      "Our commitment to sustainable practices in creating premium rugby scarves, from material sourcing to packaging.",
+    content: ``,
+    tags: ["Sustainability", "Merch", "Green"],
+  },
+  {
+    id: "6",
+    title: "The Evolution of Rugby in Kenya: From Colonial Times to Modern Day",
+    author: "Dr. Peter Wafula",
+    date: "March 2, 2024",
+    readTime: "10 min read",
+    image: "/blog/kenya-rugby-history.jpg",
+    category: "Rugby History",
+    excerpt:
+      "A historical journey through Kenya’s rugby heritage, from its colonial introduction to becoming a powerhouse in sevens rugby.",
+    content: ``,
+    tags: ["History", "Rugby", "Kenya"],
+  },
+  {
+    id: "7",
+    title: "Fan Spotlight: Meet the Kenyan Rugby Supporters in London",
+    author: "Grace Wanjiku",
+    date: "February 28, 2024",
+    readTime: "6 min read",
+    image: "/blog/fans-london.jpg",
+    category: "Fan Stories",
+    excerpt:
+      "Get to know the passionate Kenyan rugby fans living in London who never miss a match and proudly wear their heritage.",
+    content: ``,
+    tags: ["Fans", "London", "Diaspora"],
+  },
+  {
+    id: "8",
+    title: "Behind the Scenes: How We Create Our Rugby Scarves",
+    author: "David Kipchoge",
+    date: "February 25, 2024",
+    readTime: "6 min read",
+    image: "/blog/scarf-production.jpg",
+    category: "Behind the Scenes",
+    excerpt:
+      "Take a look at our design and manufacturing process, from initial concept sketches to the final premium product.",
+    content: ``,
+    tags: ["Production", "Design", "Craftsmanship"],
+  },
+  {
+    id: "9",
+    title: "Upcoming Rugby Fixtures: What to Watch in 2024",
+    author: "James Mwangi",
+    date: "February 22, 2024",
+    readTime: "5 min read",
+    image: "/blog/fixtures-2024.jpg",
+    category: "Rugby News",
+    excerpt:
+      "Your complete guide to the most important rugby matches and tournaments featuring Kenya in 2024.",
+    content: ``,
+    tags: ["Fixtures", "Schedule", "Kenya Rugby"],
+  },
+];
