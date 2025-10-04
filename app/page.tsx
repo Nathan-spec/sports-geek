@@ -7,7 +7,7 @@ import Image from "next/image"
 import Header from "@/components/header"
 import Footer from "@/components/footer"
 import Link from "next/link"
-import { NewsletterForm } from "./form/newsletter-form";
+
 
 export default function HomePage() {
   const featuredProducts = [
@@ -237,7 +237,6 @@ export default function HomePage() {
               </p>
             </div>
 
-            <NewsletterForm />
 
             <p className="text-sm text-white/80">Join 5,000+ rugby fans who never miss an update</p>
           </div>

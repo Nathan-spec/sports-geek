@@ -1,3 +1,4 @@
+"use client";
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
@@ -6,6 +7,7 @@ import Image from "next/image"
 import Header from "@/components/header"
 import Footer from "@/components/footer"
 import Link from "next/link"
+
 
 export default function HomePage() {
   const featuredProducts = [
@@ -22,7 +24,7 @@ export default function HomePage() {
       id: 2,
       name: "Shujaa Pride Classic Scarf",
       price: { kes: 2500, usd: 19.99 },
-      image: "/placeholder.svg?height=400&width=300",
+      image: "/assets/shujaa-pride.png",
       rating: 4.8,
       reviews: 89,
       badge: "New",
@@ -31,7 +33,7 @@ export default function HomePage() {
       id: 3,
       name: "Maasai Warrior Rugby Scarf",
       price: { kes: 2800, usd: 22.99 },
-      image: "/placeholder.svg?height=400&width=300",
+      image: "/assets/maasai-warrior-rugby-scarf.png",
       rating: 5.0,
       reviews: 45,
       badge: "Limited Edition",
@@ -41,7 +43,6 @@ export default function HomePage() {
   return (
     <div className="min-h-screen bg-white">
       <Header />
-
       {/* Hero Section */}
       <section className="relative bg-gradient-to-br from-green-600 via-red-600 to-black text-white py-20 lg:py-32">
         <div className="absolute inset-0 bg-black/20"></div>
@@ -67,6 +68,7 @@ export default function HomePage() {
                   Shop Now
                 </Button>
                 </Link>
+                <Link href={"/about"}>
                 <Button
                   size="lg"
                   variant="outline"
@@ -74,6 +76,7 @@ export default function HomePage() {
                 >
                   Our Story
                 </Button>
+                </Link>
               </div>
 
               <div className="flex items-center gap-8 pt-4">
@@ -168,7 +171,7 @@ export default function HomePage() {
               <Card key={product.id} className="group hover:shadow-xl transition-all duration-300 border-0 shadow-lg">
                 <div className="relative overflow-hidden rounded-t-lg">
                   <Image
-                    src="https://plus.unsplash.com/premium_photo-1725295198292-7961de344604?q=80&w=1202&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    src="/assets/kenyan-flag-heritage-scarf.png"
                     alt={product.name}
                     width={300}
                     height={400}
@@ -234,10 +237,6 @@ export default function HomePage() {
               </p>
             </div>
 
-            <div className="flex flex-col sm:flex-row gap-4 max-w-md mx-auto">
-              <input type="email" placeholder="Enter your email" className="flex-1 px-4 py-3 rounded-lg text-black" />
-              <Button className="bg-black hover:bg-gray-800 px-8">Subscribe</Button>
-            </div>
 
             <p className="text-sm text-white/80">Join 5,000+ rugby fans who never miss an update</p>
           </div>
